@@ -2,7 +2,7 @@
 
 Node classification in graphs using topology-based graph convolutional network (GCN).
 
-Code file for the paper:
+For more information see the paper:  
 "Topological based classification of paper domains using graph convolutional networks" by Roy Abel, Idan Benami and Yoram Louzoun.
 
 To quickly run an experiment set the parameters at the top of the code:
